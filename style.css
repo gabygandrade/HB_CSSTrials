@@ -1,0 +1,61 @@
+/*Trial2 CSS*/
+/*div {
+    height: 240px;
+    width: 350px;
+    background-color: #FF0000;
+    }
+body {
+    margin: 0;
+    }
+    */
+
+/*Trial 3 CSS*/
+/*
+.flag {
+    width:500px;
+    height:300px;
+}
+
+.bar {
+    height:100px;
+}
+
+#black {
+    background-color:black;
+}
+
+#red {
+    background-color:red;
+}
+
+#gold {
+    background-color:#ffd700;
+}*/
+
+body {
+    margin:0;
+}
+
+.flag {
+    height: 200px;
+    width: 300px;
+    border: 5px solid black;
+}
+
+.bar {
+    height: 200px;
+    width: 100px;
+    display: inline-block;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
